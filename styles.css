@@ -1,0 +1,48 @@
+body{
+    background-color: #EEEEEE;
+}
+h1{
+    text-align: center;
+    font-family: georgia;
+}
+h2{
+    text-align: center;
+    font-family: georgia
+}
+p {
+    text-align: center;
+    font-family: sans-serif
+}
+ul {
+    text-align: center;
+    list-style: inside;
+    font-family: sans-serif
+}
+#image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
+#img-caption{
+    text-align: center;
+    margin-top: 10px;
+}
+.text ul{
+    text-align: left;
+    margin: 20px 0;
+    list-style: none;
+    padding: 10px 50px 10px 100px;
+}
+.text ul li{
+    margin: 15px 0;
+}
+.text ul li::before{
+    content: '\2022';
+    color: #0c0c0c;
+    font-weight: bold;
+    margin-right: 8px;
+}
