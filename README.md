@@ -42,7 +42,7 @@ git clone https://github.com/geeky-prashant/tribute-page.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/geekyprashant).
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/geekyprashant).
 
 ### License
 
