@@ -8,7 +8,7 @@
   <br />
 
   <h2 align="center">Tribute Page</h2>
-In this project, I have completed the Certification Project by building a Tribute Page, <br />The project is built using HTML5 & CSS3.
+In this project, I have completed the Certification Project by building a Tribute Page, The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/tribute-page/"><strong>➥ Live Demo</strong></a>
 
